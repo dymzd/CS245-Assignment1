@@ -178,7 +178,9 @@ public class AssignmentTest{
 		
 		AssignmentTest timing = new AssignmentTest();
 		// int [] sizes = {1000,2000,3000,4000,5000,10000,12000,13000,15000};
-		int [] sizes = {50};
+		// int [] sizes = {5000};
+		int [] sizes = {50000,100000,150000};
+
 
 		// int [] sizes = {5000,10000,15000};
 		// int [] test = {10,7,8,5,6,10,1,2,4};
